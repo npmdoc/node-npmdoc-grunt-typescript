@@ -1,9 +1,14 @@
-# api documentation for  [grunt-typescript (v0.8.0)](https://github.com/k-maru/grunt-typescript)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-typescript.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-typescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-typescript.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-typescript)
+# npmdoc-grunt-typescript
+
+#### api documentation for  [grunt-typescript (v0.8.0)](https://github.com/k-maru/grunt-typescript)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-typescript.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-typescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-typescript.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-typescript)
+
 #### compile typescript to javascript
 
-[![NPM](https://nodei.co/npm/grunt-typescript.png?downloads=true)](https://www.npmjs.com/package/grunt-typescript)
+[![NPM](https://nodei.co/npm/grunt-typescript.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-typescript)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-typescript_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-typescript/build/screenCapture.npmPackageListing.svg)
 
@@ -56,8 +61,7 @@
     "main": "Gruntfile.js",
     "maintainers": [
         {
-            "name": "k-maru",
-            "email": "afurock@gmail.com"
+            "name": "k-maru"
         }
     ],
     "name": "grunt-typescript",
@@ -65,7 +69,6 @@
     "peerDependencies": {
         "grunt": "~0.4.5"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/k-maru/grunt-typescript.git"
@@ -77,16 +80,6 @@
     "version": "0.8.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-typescript](#apidoc.module.grunt-typescript)
-
-
-
-# <a name="apidoc.module.grunt-typescript"></a>[module grunt-typescript](#apidoc.module.grunt-typescript)
 
 
 
